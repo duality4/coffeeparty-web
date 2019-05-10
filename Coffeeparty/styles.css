@@ -1,0 +1,43 @@
+﻿@import url('styles.css');
+
+p {
+    text-align: justify;
+}
+
+img {
+    display:block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom:1em;
+}
+
+header h1{
+    text-align:center;
+    margin-bottom:1em;
+}
+
+h2 {
+    margin-left: 2em;
+    margin-top: 1em;
+}
+
+.card-title {
+    margin-top: 2em;
+}
+
+footer {
+    margin-top: 2em;
+}
+
+.carousel-item {
+    height:300px;
+}
+
+#how-it works.row {
+    height: 100px;
+}
+
+/*.container-margin {
+    margin-right: unset;
+    margin-left: unset;
+}*/
